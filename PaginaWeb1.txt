@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>PAGINA WEB Tarea </title>
+</head>
+<body>
+<h1>CARLOS LOPEZ </h1>
+<table>
+<tr>
+<th> Horario </th>
+<th> Martes </th>
+<th> Viernes </th>
+<th> Sabado </th>
+</tr>
+<tr>
+<td>  1 </td>
+</tr>
+<tr>
+<td>  E- bussines </td>
+</tr>
+<tr>
+<td>  Costeo </td>
+</tr>
+<tr>
+<td>  Habilidades </td>
+</tr>
+<h2> CURSOS </h2>
+  </table>
+<div>
+<span style="color:blue;">
+<p> esto solo es texto </p>
+</span>
+<p> tambien esto </p>
+</div>
+<section> 
+<h1> este sera otra cosa </h1>
+<p> this is all </p>
+</section>
+<article> 
+<h1> este sera otra cosa 2</h1>
+<p> this is all, all again </p>
+</article> 
+<a href="https://th.bing.com/th/id/R.0f18aafdad4ae2ec4b26a6cfd044c150?rik=oIXVVz08k9e3Iw&pid=ImgRaw&r=0"> certus
+</a>
+<img> src="image,jpg" 
+</body>
+<html/>
+
